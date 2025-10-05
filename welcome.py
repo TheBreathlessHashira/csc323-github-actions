@@ -1,9 +1,8 @@
 # File: welcome.py
 # 
-# Sample Python program.
-# Student Name: Professor Ming
+# Silly Python program.
+# Nate Jones
 # Class: CSC 323 Modern Technology
-
-name=input("Type your name: ")
+name = input("Type your name: ")
 print(f"Hello {name}! Welcome to GitHub Actions!")
-# all done
+print("You are learning modern development workflows!")
